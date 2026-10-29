@@ -99,15 +99,6 @@ This section will document my verified achievements, competitions, and milestone
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawwazmuhammadarifin99-cell&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fawwazmuhammadarifin99-cell&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawwazmuhammadarifin99-cell&theme=dark&hide_border=false&layout=compact)
-
----
 
 ## My Long-Term Goals
 
@@ -122,5 +113,3 @@ This section will document my verified achievements, competitions, and milestone
 ### Thanks for visiting!
 
 I'm constantly learning and developing new projects. Feel free to explore my repositories and follow my progress.
-
-![Profile Views](https://visitcount.itsvg.in/api?id=fawwazmuhammadarifin99-cell&icon=0&color=0)
